@@ -36,4 +36,4 @@ end
   #   expect {docking_station.release_bike}.to raise_error("There are no bikes")
   # end
 
-  end
+end
